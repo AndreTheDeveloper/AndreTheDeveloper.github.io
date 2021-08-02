@@ -1,15 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
 button {
+    color: black;
+    text-shadow: 0.5px 0.5px darkred;
     background-color: transparent;
     border-radius: 20px;
     border-width: 0;
-    font-size: 20px;
-    margin-left: 5%;
+    font-size: 35px;
+    margin-left: 7%;
     font-family: 'Lora', serif;
     text-align: center;
 }
 
 button:hover {
-    background-color: red;
+    background-color: darkgrey;
     -webkit-border-radius: 100px;
     -webkit-transition: all 1s ease;
 }

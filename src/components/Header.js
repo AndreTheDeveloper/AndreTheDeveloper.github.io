@@ -7,7 +7,7 @@ class Header extends Component {
     render() {
         return (
                 <header className="Header">
-                    <h1>{this.props.title}</h1>
+                    <h1 className='mainTitle'>{this.props.title}</h1>
                     <Button />
                 </header>
         );

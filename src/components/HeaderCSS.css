@@ -1,11 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
-H1 {
+.mainTitle {
+    margin-left: 3%;
     display: inline-block;
     text-align: left;
-    font-family: 'Lora', serif;
-    font-size: 40px;
+    font-family: 'Cinzel', serif;
+    font-size: 65px;
     color: black;
+    text-shadow: 1px 1px darkred;
+}
+
+.Header {
+    background-color: dimgrey;
+    opacity: 0.6;
+    border-radius: 20px;
 }
 
 

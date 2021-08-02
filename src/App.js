@@ -12,7 +12,7 @@ function App() {
             <div className="container">
               <Header title='FireSquad Legion'/>
                 <Switch>
-                    <Route path="/" exact component={Home}/>
+                    <Route path="/" exact component={MainPage}/>
                     <Route path="/home" component={MainPage}/>
                     <Route path="/about" component={AboutUs}/>
                     <Route path="/events" component={Events}/>
@@ -23,8 +23,5 @@ function App() {
   );
 }
 
-const Home = () => (
-    <MainPage />
-);
 
 export default App;

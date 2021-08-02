@@ -1,7 +1,9 @@
+import './EventsCSS.css'
+
 function Events() {
     return (
-        <div>
-            Events Page
+        <div className='eventsContainer'>
+            Future events will be displayed here
         </div>
     );
 }

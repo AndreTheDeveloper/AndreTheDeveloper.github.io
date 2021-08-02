@@ -1,17 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
-.mainContainer {
+.box {
     margin-left: 3%;
     width: 50%;
-    margin-top: 15%;
+    margin-top: 10%;
     text-align: center;
     background-color: dimgrey;
     border-radius: 25px;
     padding: 35px 20px;
     box-shadow: 5px 5px dimgrey;
     opacity: 0.6;
+
+}
+
+.text {
     font-family: 'Lora', serif;
     color: black;
     text-shadow: 1px 1px darkred;
     font-size: 30px;
+}
+
+.title {
+    font-family: 'Lora', serif;
+    color: black;
+    text-shadow: 1px 1px darkred;
+    font-size: 40px;
 }
