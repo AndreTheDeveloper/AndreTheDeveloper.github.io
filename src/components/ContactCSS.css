@@ -10,15 +10,5 @@
     color: black;
     text-shadow: 1px 1px darkred;
     font-size: 30px;
-    animation: anim-glow 3s ease infinite;
-}
-
-@keyframes anim-glow {
-    0% {
-        box-shadow: 0 0 #9a4703;
-    }
-    100% {
-        box-shadow: 0 0 25px 25px transparent;
-        border-width: 5px;
-    }
+    animation: anim-glow 8s ease infinite;
 }
