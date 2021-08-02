@@ -9,7 +9,7 @@
     font-family: 'Lora', serif;
     color: black;
     text-shadow: 1px 1px darkred;
-    font-size: 30px;
+    font-size: 1.2vw;
     border-radius: 10px;
     animation: anim-glow 8s ease infinite;
 }

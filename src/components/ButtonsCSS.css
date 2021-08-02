@@ -2,13 +2,23 @@
 
 button {
     color: black;
-    text-shadow: 0.5px 0.5px darkred;
+    text-shadow: 1px 1px darkred;
     background-color: transparent;
-    border-radius: 20px;
     border-width: 0;
-    font-size: 35px;
-    margin-left: 7%;
+    font-size: 1.5vw;
     font-family: 'Lora', serif;
+    text-align: center;
+}
+
+.inner {
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#outer
+{
+    width: 100%;
+    height: auto;
     text-align: center;
 }
 

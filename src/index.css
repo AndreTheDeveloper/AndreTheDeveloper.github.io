@@ -2,4 +2,7 @@ html {
     background-image: url(./components/backgrounds/FSLWebsiteBackground.png);
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100%;
+    min-width: 1000px;
+    height: auto;
 }
