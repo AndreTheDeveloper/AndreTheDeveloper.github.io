@@ -13,7 +13,7 @@ function AboutUs() {
                 crafting, dungeon running, and Syndicate grinding. We are also looking to expand into the PvP scenario with scheduled
                 events as wars between factions and other PvP events occur in the future. Because PvP events in New World heavily
                 rely on teamwork and coordination we need you! However, if you are tired of playing alone and want a friendly buddy or two to help you
-                on your journey just click that discord button and say hello! I promise we don't bite.
+                on your journey just click that discord button and say hello! I promise we don't bite. TEST
             </div>
         </div>
     );
