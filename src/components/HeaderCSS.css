@@ -11,9 +11,8 @@
 }
 
 .Header {
-    background-color: dimgrey;
+    background-color: rgba(52, 52, 52, 0.78);
     opacity: 0.6;
-    border-radius: 20px;
 }
 
 
