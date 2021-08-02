@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
-.Header {
-    width: 90%;
-}
-
 H1 {
     display: inline-block;
     text-align: left;
@@ -12,11 +8,4 @@ H1 {
     color: black;
 }
 
-button {
-    background-color: transparent;
-    border-width: 0;
-    font-size: 20px;
-    margin-left: 8%;
-    font-family: 'Lora', serif;
-    text-align: center;
-}
+

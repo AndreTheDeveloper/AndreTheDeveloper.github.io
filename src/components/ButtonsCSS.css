@@ -1,0 +1,15 @@
+button {
+    background-color: transparent;
+    border-radius: 20px;
+    border-width: 0;
+    font-size: 20px;
+    margin-left: 5%;
+    font-family: 'Lora', serif;
+    text-align: center;
+}
+
+button:hover {
+    background-color: red;
+    -webkit-border-radius: 100px;
+    -webkit-transition: all 1s ease;
+}
