@@ -7,7 +7,25 @@
     font-family: 'Cinzel', serif;
     font-size: 2.5vw;
     color: black;
-    text-shadow: 1px 1px darkred;
+    animation: text-glow 8s ease infinite;
+}
+
+@keyframes text-glow{
+    0% {
+        text-shadow: 3px 3px 3px #440000;
+    }
+    25% {
+        text-shadow: 3px 3px 3px #6c1a01;
+    }
+    50% {
+        text-shadow:  3px 3px 3px #651d00;
+    }
+    75% {
+        text-shadow:  3px 3px 3px #6c1a01;
+    }
+    100% {
+        text-shadow:  3px 3px 3px #440000;
+    }
 }
 
 .Header {
