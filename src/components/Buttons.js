@@ -8,29 +8,29 @@ class Buttons extends Component {
         return (
             <span className="outer">
                 <div className="inner">
-                <Link to='home'>
-                    <button>Home</button>
-                </Link>
+                    <Link to='home'>
+                        <button>Home</button>
+                    </Link>
                 </div>
                 <div className="inner">
-                <Link to='about'>
-                    <button>About us</button>
-                </Link>
+                    <Link to='about'>
+                        <button>About us</button>
+                    </Link>
                 </div>
                 <div className="inner">
-                <a href='https://discord.gg/PnHUt9ghpZ'>
-                    <button>Discord</button>
-                </a>
+                    <a href='https://discord.gg/PnHUt9ghpZ'>
+                        <button>Discord</button>
+                    </a>
                 </div>
                 <div className="inner">
-                <Link to='events'>
-                    <button>Scheduled Events</button>
-                </Link>
+                    <Link to='events'>
+                        <button>Scheduled Events</button>
+                    </Link>
                 </div>
                 <div className="inner">
-                <Link to='contact'>
-                    <button>Contact</button>
-                </Link>
+                    <Link to='contact'>
+                        <button>Contact</button>
+                    </Link>
                 </div>
             </span>
         );

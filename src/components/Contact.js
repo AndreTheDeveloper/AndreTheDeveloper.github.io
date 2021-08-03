@@ -3,7 +3,7 @@ import './ContactCSS.css'
 function Contact() {
     return (
         <div className='contactContainer'>
-            Not yet decided, message through discord for time being
+            You can contact us through discord. Just direct message any of the chiefs.
         </div>
     );
 }
