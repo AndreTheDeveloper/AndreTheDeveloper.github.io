@@ -18,7 +18,7 @@ class Buttons extends Component {
                 </Link>
                 </div>
                 <div className="inner">
-                <a href='https://discord.gg/nJaPqRq'>
+                <a href='https://discord.gg/PnHUt9ghpZ'>
                     <button>Discord</button>
                 </a>
                 </div>
